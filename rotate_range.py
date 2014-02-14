@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 
-#mysql partition range table
+#mysql partition range table  --  less int
 
 
 import sys
